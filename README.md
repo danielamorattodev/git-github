@@ -4,7 +4,7 @@
 
 ---
 
-## :computer: O que foi aprendido neste projeto?
+## :computer: O que aprendi neste projeto:
 
 * Comandos básicos do git.
 * Arquivo gitignore.
