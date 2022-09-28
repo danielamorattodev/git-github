@@ -6,13 +6,13 @@
 
 ## :computer: O que aprendi neste projeto:
 
-* Comandos básicos do git.
-* Arquivo gitignore.
+* Revisão dos comandos básicos do git.
+* Manipulando o arquivo .gitignore .
 * Criação de branchs.
 * Transição entre branchs.
 * Merge request.
 * Comandos de solução de conflitos.
-* Criação de tags.
+* Criação de tags (envio de versões de projeto).
 
 ---
 
